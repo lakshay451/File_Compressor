@@ -1,2 +1,3 @@
-# File_Compressor
-A C++ project for file compression
+# FileCompressor
+A File Compressor based on huffman coding in C++.
+Credits to @omernawaz29 for the code for bitset.
